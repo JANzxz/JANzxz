@@ -31,15 +31,9 @@ Olá! Eu sou [João Vitor], E e sou estudante de Sistemas Para Internet e estou 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### 🌸 Caso queira saber mais sobre mim 🌸
+### 🌸 Agora minhas estatisticas 🌸
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>Mais sobre mim</summary>
-
-  - 💬 Tenho que escrever aqui e organizar melhor
-</details>
 
 <!-- GithubStats -->
 
