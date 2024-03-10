@@ -44,7 +44,7 @@ Olá! Eu sou [João Vitor], E e sou estudante de Sistemas Para Internet e estou 
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="![mercearia_pixel](https://github.com/JANzxz/JANzxz/assets/143559938/2aafafbb-485e-429e-9ca7-5906f04eb27d)" alt="Imagem">
+  <img align="center" src="(https://github.com/JANzxz/JANzxz/assets/143559938/2aafafbb-485e-429e-9ca7-5906f04eb27d)" alt="Imagem">
 </p>
 
 ## 🔥 Skills
