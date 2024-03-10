@@ -4,10 +4,14 @@
     <summary><h1 style="display: inline-block">OPA👋</h1></summary>
 </div>
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/JANzxz/JANzxz/assets/143559938/fc06ea86-03cb-46b9-802a-c01638872601" alt="Imagem">
+</p>
+
 <!-- Presentation -->
 <p>
- OPA 👋
-
+  
 # Bem-vindo ao Meu Perfil GitHub! 🌸
 
 ## Sobre Mim
@@ -40,12 +44,8 @@ Olá! Eu sou [João Vitor], E e sou estudante de Sistemas Para Internet e estou 
 
 <!-- GithubStats -->
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JANzxz_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANzxz&show_icons=true&theme=tokyonight)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/JANzxz/JANzxz/assets/143559938/fc06ea86-03cb-46b9-802a-c01638872601" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
