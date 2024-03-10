@@ -1,12 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<div aling = "center">
-    <img src = "https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-        alt = "snake" />
+    <summary><h1 style="display: inline-block">OPA👋</h1></summary>
 </div>
 
 <!-- Presentation -->
