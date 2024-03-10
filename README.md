@@ -25,7 +25,7 @@ Olá! Eu sou [João Vitor], E e sou estudante de Sistemas Para Internet e estou 
 ## Contato
 - 💬 Você pode me encontrar no [Twitter](link_para_o_twitter) para conversar sobre qualquer coisa legal! (Lembrar de criar Twitter)
 
-## Você pode me ncontrar
+## Você pode me encontrar
 <!-- Links -->
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
