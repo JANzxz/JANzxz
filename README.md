@@ -6,9 +6,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/JANzxz/JANzxz/assets/143559938/fc06ea86-03cb-46b9-802a-c01638872601" alt="Imagem">
+  <img align="center" src="https://github.com/JANzxz/JANzxz/assets/143559938/fc06ea86-03cb-46b9-802a-c01638872601" alt="Imagem" width="100%">
 </p>
-
 <!-- Presentation -->
 <p>
   
